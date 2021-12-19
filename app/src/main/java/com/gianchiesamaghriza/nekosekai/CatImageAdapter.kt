@@ -42,7 +42,11 @@ class CatImageAdapter : RecyclerView.Adapter<ItemCard>() {
 
     override fun onBindViewHolder(holder: ItemCard, position: Int) {
         val item: CatImage = data[position]
-        holder.tv.text = item.toString()
+        if (item.breeds == null)
+            holder.tv.text = item.toString()
+         else
+            holder.tv.text = "tsting"
+
         Picasso.get().load(item.url).into(holder.iv)
     }
 
