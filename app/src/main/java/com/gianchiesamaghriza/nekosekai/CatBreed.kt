@@ -5,6 +5,7 @@ import com.google.gson.annotations.SerializedName
 class CatBreed {
     var id: String = ""
     var name: String = ""
+    var description = ""
 
     @SerializedName("life_span")
     var lifespan: String = ""
@@ -15,9 +16,9 @@ class CatBreed {
 
     override fun toString(): String {
         return String.format(
-            "id: %s, name: %s" +
+            "id: %s, name: %s, description: %s, " +
                     "lifespan: %s, origin: %s, wikipediaUrl: %s",
-            id, name, lifespan, origin, wikipediaUrl
+            id, name, description, lifespan, origin, wikipediaUrl
         )
     }
 }
