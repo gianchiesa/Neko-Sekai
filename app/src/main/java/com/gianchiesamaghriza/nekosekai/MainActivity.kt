@@ -1,5 +1,6 @@
 package com.gianchiesamaghriza.nekosekai
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -14,6 +15,7 @@ import com.google.android.material.chip.Chip
 import com.google.android.material.chip.ChipGroup
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
+import kotlin.reflect.KClass
 
 class MainActivity : AppCompatActivity() {
     private val searchView: View by lazy {
@@ -33,6 +35,7 @@ class MainActivity : AppCompatActivity() {
         initUI()
         initViewModel()
     }
+
     private fun initUI() {
         val layoutManager: GridLayoutManager = GridLayoutManager(this, 1)
         recyclerView.layoutManager = layoutManager
@@ -80,14 +83,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /**
-     * Given a [ChipGroup] will return the children that have been selected.
-     *
-     * @param cg ChipGroup that contains [CatBreed] tag.
-     * Note: Given more time would add type safety checks as well
-     * as a generic way to get the class tag you're searching for.
-     * @returnn list of breeds that have been selected
-     */
     private fun getCheckedBreeds(cg: ChipGroup): List<CatBreed> {
         val breeds: MutableList<CatBreed> = ArrayList()
         for (i in 0 until cg.childCount) {
@@ -102,14 +97,6 @@ class MainActivity : AppCompatActivity() {
         return breeds
     }
 
-    /**
-     * Given a [ChipGroup] will return the children that have been selected.
-     *
-     * @param cg ChipGroup that contains [CatCategory] tag.
-     * Note: Given more time would add type safety checks as well
-     * as a generic way to get the class tag you're searching for.
-     * @returnn list of categories that have been selected
-     */
     private fun getCheckedCategories(cg: ChipGroup): List<CatCategory> {
         val categories: MutableList<CatCategory> = ArrayList()
         for (i in 0 until cg.childCount) {
@@ -122,5 +109,11 @@ class MainActivity : AppCompatActivity() {
             }
         }
         return categories
+    }
+
+
+    fun launchdetailtActivity(view: android.view.View){
+        val detailActivity = Intent(this,DetailActivity::class.java)
+        startActivity(detailActivity)
     }
 }
