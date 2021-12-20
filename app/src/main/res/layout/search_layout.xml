@@ -8,15 +8,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Search"
+        android:fontFamily="@font/poppins_bold"
         android:textSize="24sp"
-        android:layout_margin="10dp"/>
+        android:layout_margin="12dp"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/category"
-        android:textSize="18sp"
-        android:layout_margin="8dp"/>
     <ScrollView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
@@ -31,8 +26,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/breed"
+        android:fontFamily="@font/poppins"
         android:textSize="18sp"
-        android:layout_margin="8dp"/>
+        android:layout_margin="12dp"/>
     <ScrollView
         android:layout_width="wrap_content"
         android:layout_height="250dp">
@@ -48,5 +44,5 @@
         android:layout_height="wrap_content"
         android:text="@string/search"
         android:layout_gravity="center"
-        android:layout_margin="8dp"/>
+        android:layout_margin="12dp"/>
 </LinearLayout>

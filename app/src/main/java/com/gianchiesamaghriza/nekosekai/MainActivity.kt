@@ -70,16 +70,16 @@ class MainActivity : AppCompatActivity() {
                 }
             })
 
-            viewModel.fetchCategories().observe(this, Observer {
-                for (category in it) {
-                    val chip = Chip(this)
-                    chip.setText(category.name)
-                    chip.tag = category
-                    chip.isCheckable = true
-                    (searchView.findViewById(R.id.categoryChipGroup) as ChipGroup).addView(chip)
-                    Log.i("chip", chip.toString())
-                }
-            })
+//            viewModel.fetchCategories().observe(this, Observer {
+//                for (category in it) {
+//                    val chip = Chip(this)
+//                    chip.setText(category.name)
+//                    chip.tag = category
+//                    chip.isCheckable = true
+//                    (searchView.findViewById(R.id.categoryChipGroup) as ChipGroup).addView(chip)
+//                    Log.i("chip", chip.toString())
+//                }
+//            })
         }
     }
 
