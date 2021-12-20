@@ -94,6 +94,15 @@
           android:layout_marginStart="24dp"
           android:text="---" />
 
+      <Button
+          android:id="@+id/searchBtn"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="24dp"
+          android:layout_marginTop="6dp"
+          android:layout_marginEnd="24dp"
+          android:text="Let's Search" />
+
       <TextView
           android:id="@+id/temp"
           android:layout_width="match_parent"
