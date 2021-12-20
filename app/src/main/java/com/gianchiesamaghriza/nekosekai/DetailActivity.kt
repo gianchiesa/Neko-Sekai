@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.*
+import androidx.core.app.ShareCompat
 import androidx.core.view.isGone
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_detail.*
@@ -100,6 +101,21 @@ class DetailActivity : AppCompatActivity() {
         desc = findViewById(R.id.descDetail) as TextView
         temp = findViewById(R.id.temp) as TextView
         origin = findViewById(R.id.origin) as TextView
+    }
+
+    fun backActivity(view: android.view.View){
+        this.finish()
+    }
+    fun shareText(view: android.view.View) {
+        val nametxt = breeds!!.text.toString()
+        val descText = desc!!.text.toString()
+        val mimeType = "text/plain"
+        ShareCompat.IntentBuilder
+            .from(this)
+            .setType(mimeType)
+            .setChooserTitle(getString(R.string.share_text_with))
+            .setText(nametxt + "\n" + descText )
+            .startChooser();
     }
 
 }

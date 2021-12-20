@@ -3,4 +3,5 @@
     <string name="category">Category</string>
     <string name="breed">Breeds</string>
     <string name="search">Search</string>
+    <string name="share_text_with">\Share this text with: \</string>
 </resources>
