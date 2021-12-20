@@ -6,93 +6,292 @@
     android:layout_height="match_parent"
     tools:context=".DetailActivity">
 
-  <LinearLayout
+  <ScrollView
       android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:orientation="vertical"
-      app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toTopOf="parent">
+      android:layout_height="match_parent">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="200dp">
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
-      <ImageView
-          android:id="@+id/imgtest"
+      <androidx.constraintlayout.widget.ConstraintLayout
           android:layout_width="match_parent"
-          android:layout_height="match_parent"
-          android:scaleType="fitXY"
-          app:layout_constraintBottom_toBottomOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          tools:srcCompat="@tools:sample/avatars" />
+          android:layout_height="200dp">
 
-    </androidx.constraintlayout.widget.ConstraintLayout>
+        <ImageView
+            android:id="@+id/imgtest"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:srcCompat="@tools:sample/avatars" />
 
-    <androidx.constraintlayout.widget.ConstraintLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_marginTop="10dp">
+      </androidx.constraintlayout.widget.ConstraintLayout>
 
       <TextView
-          android:id="@+id/breeds"
-          android:layout_width="0dp"
-          android:layout_height="wrap_content"
-          android:layout_marginStart="24dp"
-          android:text="cat name"
-          android:textColor="#171717"
-          android:textSize="18sp"
-          android:textStyle="bold"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toTopOf="parent" />
-
-      <CheckBox
-          android:id="@+id/favContent"
+          android:id="@+id/origin"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
-          android:layout_marginEnd="16dp"
-          android:button="@drawable/ic_search"
-          android:minWidth="24dp"
-          android:minHeight="24dp"
-          app:layout_constraintEnd_toStartOf="@+id/imageView2"
-          app:layout_constraintTop_toTopOf="parent" />
+          android:layout_marginStart="24dp"
+          android:layout_marginTop="12dp"
+          android:background="@drawable/rounded_grey"
+          android:fontFamily="@font/poppins_bold"
+          android:padding="4dp"
+          android:text="TextView" />
 
-      <ImageView
-          android:id="@+id/imageView2"
-          android:layout_width="0dp"
+      <androidx.constraintlayout.widget.ConstraintLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/breeds"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:text="cat name"
+            android:textColor="#171717"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <CheckBox
+            android:id="@+id/favContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:button="@drawable/ic_fav"
+            android:minWidth="24dp"
+            android:minHeight="24dp"
+            app:layout_constraintEnd_toStartOf="@+id/imageView2"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="32dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_share" />
+      </androidx.constraintlayout.widget.ConstraintLayout>
+
+      <TextView
+          android:id="@+id/descDetail"
+          android:layout_width="354dp"
           android:layout_height="wrap_content"
-          android:layout_marginEnd="32dp"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintTop_toTopOf="parent"
-          app:srcCompat="@drawable/ic_filter" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
+          android:layout_marginStart="24dp"
+          android:layout_marginTop="8dp"
+          android:text="Lorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismu" />
 
-    <TextView
-        android:id="@+id/descDetail"
-        android:layout_width="354dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="8dp"
-        android:text="Lorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismuLorem pismu" />
+      <TextView
+          android:id="@+id/textView2"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="24dp"
+          android:text="---" />
 
-    <TextView
-        android:id="@+id/textView11"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="16dp"
-        android:text="Materi List"
-        android:textColor="#171717"
-        android:textSize="18sp"
-        android:textStyle="bold" />
+      <TextView
+          android:id="@+id/temp"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="24dp"
+          android:fontFamily="@font/poppins_medium"
+          android:text="TextView" />
 
-    <RatingBar
-        android:id="@+id/ratingBar2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:numStars="5"
-        android:rating="1" />
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:id="@+id/ratingAll"
+          android:layout_marginStart="24dp"
+          android:orientation="vertical">
 
-  </LinearLayout>
+        <TextView
+            android:id="@+id/affectRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Affection"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingAffect"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/energyRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Energy Rate"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingEnergy"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/intelRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Intelligence"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingIntel"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/healthRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Health Issues"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingHealth"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/rareRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Rarity"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingRare"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/AdaptRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Adaptability"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingAdapt"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/childRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Child Friendly"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingChild"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/dogRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Dog Friendly"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingDog"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/strangerRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Stranger friendly"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingStranger"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+
+        <TextView
+            android:id="@+id/catRate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Friendly with Other Cat"
+            android:textColor="#171717"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RatingBar
+            android:id="@+id/ratingCat"
+            style="@android:style/Widget.DeviceDefault.Light.RatingBar.Indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="38dp"
+            android:numStars="5"
+            android:rating="1" />
+      </LinearLayout>
+
+    </LinearLayout>
+  </ScrollView>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

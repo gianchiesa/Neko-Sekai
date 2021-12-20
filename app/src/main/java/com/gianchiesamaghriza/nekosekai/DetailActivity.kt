@@ -16,6 +16,9 @@ class DetailActivity : AppCompatActivity() {
     private lateinit var breeds: TextView
     private lateinit var pic: ImageView
     private lateinit var rate: RatingBar
+    private lateinit var desc: TextView
+    private lateinit var temp: TextView
+    private lateinit var origin: TextView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
@@ -27,14 +30,21 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private fun dataDetail(){
-        val test: String = intent.getSerializableExtra("objecturl") as String
-        Picasso.get().load(test).into(pic)
+        val url: String = intent.getSerializableExtra("objecturl") as String
+        val name: String = intent.getSerializableExtra("objecttv") as String
+        val originText: String = intent.getSerializableExtra("objectorigin") as String
+        val descText: String = intent.getSerializableExtra("objectdesc") as String
+        val tempText: String = intent.getSerializableExtra("objecttemp") as String
         val rate: String = intent.getSerializableExtra("objectintel") as String
         val rateln = rate.length
         if (rateln == 0)
-            ratingBar2.numStars = 2
-        else ratingBar2.rating = rate.toFloat()
-
+            ratingEnergy.numStars = 2
+        else ratingEnergy.rating = rate.toFloat()
+        breeds.text = name
+        desc.text = descText
+        Picasso.get().load(url).into(pic)
+        temp.text = tempText
+        origin.text = originText
 
 
         println("kental")
@@ -43,8 +53,10 @@ class DetailActivity : AppCompatActivity() {
     private fun initView() {
         breeds = findViewById(R.id.breeds) as TextView
         pic = findViewById(R.id.imgtest) as ImageView
-        rate = findViewById(R.id.ratingBar2) as RatingBar
-
+        rate = findViewById(R.id.ratingEnergy) as RatingBar
+        desc = findViewById(R.id.descDetail) as TextView
+        temp = findViewById(R.id.temp) as TextView
+        origin = findViewById(R.id.origin) as TextView
     }
 
 }
