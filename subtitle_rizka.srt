@@ -1,0 +1,726 @@
+﻿1
+00:00:02,385 --> 00:00:13,759
+gian : assalamualaikum wr wb, saya gian dari mahasiswa
+komputer 2018 Universitas Negeri Jakarta saya disini
+
+2
+00:00:13,759 --> 00:00:22,788
+bersama teman saya Raihan Rizka Adriani
+ya sebagai tester untuk aplikasi saya
+
+3
+00:00:22,789 --> 00:00:30,059
+dalam rangka sebagai user taster
+aplikasi final Project mata kuliah mobile
+
+4
+00:00:30,059 --> 00:00:35,539
+computing Jadi Kakak di sini Kak Riska sebagai pemelihara kucing
+
+5
+00:00:35,539 --> 00:00:42,840
+sebagai target user dari aplikasi saya
+yang bernama nekosekai
+
+6
+00:00:42,840 --> 00:00:49,020
+dia itu aplikasi tentang info-info
+kucing dan berbagai macam
+
+7
+00:00:49,020 --> 00:00:54,149
+lainnya dan ada fitur-fitur lain juga
+jadi boleh perkenalkan diri dulu dari
+
+8
+00:00:54,149 --> 00:01:00,009
+kak Riska nama boleh mungkin sekarang
+lagi ngapain kucingnya berapa mungkin
+
+9
+00:01:00,009 --> 00:01:07,150
+rizka : oke ya kenalin nama gua raihana rizka adriani, umurnya 23 tahun, saat ini gua
+
+10
+00:01:07,150 --> 00:01:12,599
+lagi bekerja di Rumah Sakit PMI bogor
+
+11
+00:01:12,599 --> 00:01:17,908
+terus apa kalau dari kucing kakak ini ada berapa?
+
+12
+00:01:18,640 --> 00:01:22,060
+yang di rumah ada 1 yang...
+
+13
+00:01:22,530 --> 00:01:29,349
+dua diluar baru beranak
+gian : diluar itu gimana maksudnya kak?
+
+14
+00:01:29,349 --> 00:01:34,450
+kalau didalam tinggal di dalam kalau diluar
+tinggal di luar mereka bebas main tapi
+
+15
+00:01:34,450 --> 00:01:39,819
+terus-terusan balik ke rumah gua buat
+makan gitu
+gian : jadi kayak dikasih makan tapi
+
+16
+00:01:39,819 --> 00:01:49,469
+dibebasin gitu ya kayak dia ngapain
+, Terus kucing sendiri itu jenisnya apa sih kak?
+
+17
+00:01:49,469 --> 00:01:58,299
+rizka :  kalau yg diluar kucing biasa kalau yang di..
+
+18
+00:01:58,299 --> 00:02:06,938
+rumah yang tad itu dia persia anggora
+gian : berarti british long hair ya?
+
+19
+00:02:06,938 --> 00:02:10,870
+nggak dong beda dong
+
+20
+00:02:12,669 --> 00:02:16,840
+namanya siapa Kalau boleh tau sih kucing
+
+21
+00:02:16,840 --> 00:02:17,605
+pooki
+
+22
+00:02:18,201 --> 00:02:19,691
+pooki terus siapa lagi ?
+
+23
+00:02:21,229 --> 00:02:24,647
+terus ada tata sama bocil
+
+24
+00:02:24,818 --> 00:02:33,469
+namanya unik unik sekali ya sangat Indonesia
+rizka : suka bingung ya soalnya
+
+25
+00:02:33,469 --> 00:02:39,370
+gian : itu ngerawatnya ribet jadinya apa gimana ada keluh kesah pas ngerawat ?
+
+26
+00:02:39,370 --> 00:02:45,769
+rizka : kalo ngerawat sih ya gak susah banget ya
+soalnya dia udah ke training juga kalau
+
+27
+00:02:45,769 --> 00:02:51,729
+misalkan yaitu trainingnya sih yang susah, training toiletnya
+
+28
+00:02:51,729 --> 00:02:57,949
+bersih-bersih poopnya paling kaya gitu
+tapi kalau misalnya lu suka kucing ya nggak
+
+29
+00:02:57,949 --> 00:03:03,810
+keberatan gitu
+gian : Iya sudah kayak udah mau gak mau
+
+30
+00:03:03,810 --> 00:03:10,129
+harus dihadapin, kalo dari perawatan
+bulu-bulunya gitu ada perlakuan khusus
+
+31
+00:03:10,129 --> 00:03:18,110
+kayak yang bulu panjang tadi tuh
+rizka : Oh kalau itu setiap hari sih harus disisir
+
+32
+00:03:18,110 --> 00:03:24,629
+soalnya nanti menggumpal gitu sih bulunya Terus kalau dibiarin bisa jadi penyakit
+
+33
+00:03:24,629 --> 00:03:30,870
+kulit kayak gitu susahnya, emang
+khususnya long hair itu yaitu pertama
+
+34
+00:03:30,870 --> 00:03:37,949
+bulunya harus dirawat yang ngegumpal terus setiap pasti akan ada apa sih
+
+35
+00:03:37,949 --> 00:03:46,019
+periode dimana dia muntah bola gitu
+gian : oh ya itu normal sih kayak buat
+
+36
+00:03:46,019 --> 00:03:53,450
+ngelancarin pencernaannya kalau gasalah ya ?
+
+37
+00:03:53,479 --> 00:04:01,438
+gian : oke Langsung saja kali ya kalau dari
+yang anggora atau semuanya
+
+38
+00:04:01,438 --> 00:04:05,009
+sifatnya gimana sih kayak manja mungkin
+
+39
+00:04:08,336 --> 00:04:13,360
+rizka : dia lebih ke jual mahal kalau lagi banyak
+
+40
+00:04:13,360 --> 00:04:19,389
+orang nih jual mahal kalau saya
+cuma berdua doang tuh dia baru manja
+
+41
+00:04:19,389 --> 00:04:26,490
+gian : kayak pengen elus gitu
+
+42
+00:04:26,490 --> 00:04:30,788
+kayak gitu sifat-sifat emang ada
+sifat-sifatnya kayaknya Stranger Friendly
+
+43
+00:04:30,788 --> 00:04:38,050
+atau mungkin friendly ke sama kucing itu
+ada di aplikasi kita mungkin dia
+
+44
+00:04:38,050 --> 00:04:42,569
+mungkin miara kucing sama anjing itu barengan itu suka berantem atau
+
+45
+00:04:42,569 --> 00:04:50,728
+akrab banget itu juga ada emang ada
+penjelasannya di situ kayak gitu nah itu
+
+46
+00:04:50,728 --> 00:04:54,959
+kalau dari umur kucing aku udah berapa tahun?
+
+47
+00:04:57,600 --> 00:05:05,329
+rizka : kayaknya 2 tahun udah ada
+gian : Nah kalau itu sering dibawa ke dokter
+
+48
+00:05:05,329 --> 00:05:08,978
+Bagaimana atau salon gitu atau mandi sendiri
+
+49
+00:05:08,978 --> 00:05:17,589
+kadang mandi sendiri kadang dibawa
+ke pet buat grooming tapi kalau pangobatan
+
+50
+00:05:17,589 --> 00:05:23,389
+jarang sih Ya seharusnya kan reguler
+gitu ya 1 bulan tiap Sebulan
+
+51
+00:05:23,389 --> 00:05:25,199
+sekali tapi gua jarang
+
+52
+00:05:25,199 --> 00:05:26,702
+gian : karena emg kucingnya sehat mungkin ?
+
+53
+00:05:27,459 --> 00:05:38,079
+Enggak sih dia obesitas
+dia beratnya sekarang 5kg an
+
+54
+00:05:39,993 --> 00:05:47,769
+gian : iya tadi Kayak udah ama bulunya panjang terus gede gitu badannya
+
+55
+00:05:47,769 --> 00:05:53,319
+Emang kayak kalau karena punya
+kucing itu kayaknya dimanja terus kali
+
+56
+00:05:53,319 --> 00:06:01,680
+rizka :  gue ngasih kucingnya enggak
+gian : siap-siap ya, OK langsung aja ya
+
+57
+00:06:01,680 --> 00:06:06,290
+beralih ke aplikasinya, ini kayaknya saya kirim dulu linknya
+
+58
+00:06:17,329 --> 00:06:24,319
+udah dikirim via wa mungkin bisa dicek dan bisa didoownload dulu
+
+59
+00:06:36,404 --> 00:06:39,984
+gian : kalau udh didowload bilang ya kak
+rizka ; oke
+
+60
+00:06:51,740 --> 00:06:58,680
+Oke boleh langsung jadi di jelasin dulu kali gimana?
+itu aplikasi
+
+61
+00:06:58,680 --> 00:07:05,218
+namanya nekosekai, jadi dia itu fiturnya pertama ada
+
+62
+00:07:05,218 --> 00:07:11,218
+random picture, jadi di homenya itu ada berbagai macam
+
+63
+00:07:11,218 --> 00:07:15,879
+picture picture atau gambar-gambar
+random tentang kucing atau kucing
+
+64
+00:07:15,879 --> 00:07:23,139
+dari manapun itu juga dari luar negeri
+atau dari indo ,terus ada search jenisnya
+
+65
+00:07:23,139 --> 00:07:27,718
+atau kategorinya ataupun namanya tuh, breeds
+
+66
+00:07:27,718 --> 00:07:35,379
+itu bisa dicari nanti dari
+kategori-kategori tersebut terus dari
+
+67
+00:07:35,379 --> 00:07:38,939
+kategori-kategori tersebut kita juga lihat detail detail
+
+68
+00:07:38,939 --> 00:07:44,019
+kayak sifatnya terus ada kemampuan
+kemampuannya di apa aja Terus kayak
+
+69
+00:07:44,019 --> 00:07:49,300
+deskripsinya terus asal negaranya dia
+terus kayak banyaklah pokoknya Info
+
+70
+00:07:49,300 --> 00:07:56,740
+infonya, nanti habis itu ada fitur share
+juga dimana kakak bisa bagiin info-info
+
+71
+00:07:56,740 --> 00:08:02,360
+tersebut Mungkinkah dari aplikasi
+chatting atau mungkin bisa di copas dulu
+
+72
+00:08:02,360 --> 00:08:13,929
+atau mungkin bisa yang lain-lain gitu
+oke bisa langsung dibuka  aja kak aplikasinya
+
+73
+00:08:13,930 --> 00:08:24,970
+Nah itu ada tampilan, Oke dari logonya
+dulu kali ya jadi logonya menurut kaka gimana?
+
+74
+00:08:25,418 --> 00:08:33,099
+rizka : lucu-lucu
+gian : ada  komentar lain mungkin kayak perlu direvisi atau gimana
+
+75
+00:08:33,099 --> 00:08:41,120
+rizka : suka, lucu
+gian : oke, jadi di tampilan home nya
+
+76
+00:08:41,120 --> 00:08:49,059
+itu ada gambar-gambar kucing random
+itu bisa di klik aja di situ detailnya
+
+77
+00:08:53,019 --> 00:08:58,070
+gian : ikut sih enggak ada infonya karena kita kan get random ya Jadi
+
+78
+00:08:58,070 --> 00:09:05,615
+kita gak tahu itu jenisnya apa
+rizka :harus dipilih dulu jenisnya ya ?
+gian : iya harus dipilih dulu
+
+79
+00:09:05,615 --> 00:09:07,975
+gian : disitu menurut kakak ada komentar ga ?
+
+80
+00:09:09,980 --> 00:09:16,370
+komentar-komentar nggak ada sih
+gian : dari tampilannya mungkin
+
+81
+00:09:16,669 --> 00:09:26,539
+tampilan oke tapi dia apa
+namanya penjelasannya diulang-ulang lagi
+
+82
+00:09:28,669 --> 00:09:33,389
+karena memang kalau misalnya jenisnya
+sama atau mungkin karena yang dirandom
+
+83
+00:09:33,389 --> 00:09:39,169
+itu ga diketahu jenisnya jadi kita
+enggak bisa apa namanya asal kasih info
+
+84
+00:09:39,169 --> 00:09:46,099
+jadi kita nyuruh si usernya itu bakal balik ke fitur search by kategori
+
+85
+00:09:46,099 --> 00:09:48,850
+jadi ntar dia bisa nyari kategori atau breedsnya sendiri
+
+86
+00:09:51,320 --> 00:09:57,950
+Oke kita langsung aja ke fitur search by kategori kak
+
+87
+00:09:57,950 --> 00:10:03,180
+bisa dipilih mungkin jenis kucing kesukaan kakak yang penasaran
+
+88
+00:10:21,870 --> 00:10:27,389
+kucing kucing liar mungkin wild gitu ya yang kayak savannah
+
+89
+00:10:27,389 --> 00:10:31,679
+Himalayan mungkin, mau nambah kucing himalayan
+
+90
+00:10:32,495 --> 00:10:34,301
+rizka : nih bobtail bobtail
+
+91
+00:10:35,669 --> 00:10:39,809
+gian : bob tail itu kayak gimana ya lupa saya
+
+92
+00:10:39,809 --> 00:10:42,613
+rizka : yang buntutnya pendek
+
+93
+00:10:47,573 --> 00:10:51,126
+gian : udh kak?
+rizka : udah
+
+94
+00:10:51,352 --> 00:10:59,500
+gimana menurut kakak gambar-gambarnya mungkin atau dari segi tampliannya, penjelasannya
+
+95
+00:10:59,500 --> 00:11:02,198
+rizka : oke bagus
+
+96
+00:11:02,980 --> 00:11:09,318
+gambarnya variatif sekali ya
+gian : Ya jadi kita dari gambar tersebut apa
+
+97
+00:11:09,318 --> 00:11:14,720
+kategori tersebut ga cuma get 1 gambar aja jadi ada banyak walaupun  juga
+
+98
+00:11:14,720 --> 00:11:17,860
+penjelasannya juga berulang soalnya jenisnya sama
+
+99
+00:11:19,480 --> 00:11:27,100
+cuma ngambil ya karena mungkin,
+apa namanya user butuh misalnya kayak
+
+100
+00:11:27,100 --> 00:11:33,110
+kan kucing yang jenisnya sama tapi
+warna itu macam-macam mungkin ya terus
+
+101
+00:11:33,110 --> 00:11:37,698
+ada kucingnya kayak biasanya Himalayan
+Tuh udah ada polanya tersendiri itu
+
+102
+00:11:37,698 --> 00:11:46,369
+kayak di hidung sama di kaki sama di
+buntut tu warnanya agak tua jadi
+
+103
+00:11:46,369 --> 00:11:53,589
+sisanya muda itu kayak kita pilihan gambar aja biar nambah refrensi
+
+104
+00:11:53,589 --> 00:12:00,029
+terus boleh dipencet detailnya
+
+105
+00:12:00,029 --> 00:12:07,980
+ Nah disitu ada itu
+kayak negara asalnya dia terus namanya
+
+106
+00:12:07,980 --> 00:12:13,740
+dia, tentang Kemampuan kemampuan dia
+
+107
+00:12:13,740 --> 00:12:20,429
+sifat-sifatnya, Nah tadi kan
+kakak agak pemalu kucingnya ama orang banyak
+
+108
+00:12:20,429 --> 00:12:27,139
+nah itu ada namanya.
+adanya Stranger friendly namanya
+
+109
+00:12:27,139 --> 00:12:33,360
+ya Jadi kalau iya kalau misalnya dia
+stranger friendlynya kecil tu kayak
+
+110
+00:12:33,360 --> 00:12:41,220
+kemampuan emang gitu malu-malu gitu loh
+rizka : kok malu-malu jual mahal hehehe jadi
+
+111
+00:12:41,220 --> 00:12:48,620
+kayak mungkin ada dog friendly juga dia bakal kayak kurang akrab ama anjing gitu
+
+112
+00:12:48,620 --> 00:12:55,080
+rizka : oh iya ada
+gian : terus juga ada kucing yg buas gitu
+
+113
+00:12:55,080 --> 00:13:00,759
+mungkin territorial gitu ya kayak
+kucing savannah gitu jadi kayak cat friendlyya
+
+114
+00:13:00,759 --> 00:13:05,789
+mungkin banget kecil karena dia kan teritorial gitu
+
+115
+00:13:08,039 --> 00:13:16,470
+jadi kalau ama kucing lain bakal galak atau gimana
+Terus ada apa lagi ya, pinternya juga tuh
+
+116
+00:13:16,470 --> 00:13:23,639
+intelijen intelijen, mungkin kalo kucing kaka susah
+dibilangin mungkin intelligence kurang
+
+117
+00:13:35,820 --> 00:13:40,740
+lagi garuk-garuk kamar mau masuk kamar
+
+118
+00:13:40,740 --> 00:13:48,370
+ada adaptability dan adaptability Ia
+juga kemampuan beradaptasinya dia ada
+
+119
+00:13:48,370 --> 00:13:58,079
+health issues Jadi kalau misalnya kucing
+yang rawan sakit atau gimana gitu Itu
+
+120
+00:13:58,080 --> 00:14:03,818
+bakal gede bisa bintangnya karena dia rawan sakit
+
+121
+00:14:03,818 --> 00:14:09,230
+misal kakak belum punya kucing nih atau menambah kucing tapi
+
+122
+00:14:09,230 --> 00:14:14,139
+males kucing itu yang rawan sakit, atau mau yang sifatnya gimana itu bisa dilihat disitu
+
+123
+00:14:16,368 --> 00:14:19,774
+jadi bisa buat nambah info juga
+
+124
+00:14:24,399 --> 00:14:30,129
+rizka : jadi fungsinya ini buat ngelihat dulu gitu
+
+125
+00:14:30,129 --> 00:14:39,249
+tesnya speknya, iya  betul spesifikasi
+
+126
+00:14:39,249 --> 00:14:45,719
+terus bisa misalnya takut, kalau kucing harganya mahal
+
+127
+00:14:45,970 --> 00:14:54,447
+bisanya dicek dulu kayak dari raritynya berpengaruh, kan ada rarity, kelangkaan
+
+128
+00:14:54,447 --> 00:14:58,015
+itu juga bisa berasal dari situ juga kan
+
+129
+00:15:00,029 --> 00:15:05,509
+ada lagi kak yang mau ditanya atau dikomen ?
+
+130
+00:15:09,350 --> 00:15:18,929
+rizka : udh sih cukup menarik
+gian : kalau dari segi...
+
+131
+00:15:18,929 --> 00:15:23,750
+penempatan penempatan tombol Mungkin ada yg menyulitkan kakak?
+
+132
+00:15:23,750 --> 00:15:31,250
+rizka : Kenapa ?
+gian : penempatan penempatan tombol
+
+133
+00:15:31,250 --> 00:15:37,610
+rizka : enggak kelihatan semua mudah dimengerti
+
+134
+00:15:40,250 --> 00:15:48,500
+karena masih muda juga kali ya jadi matanya
+Masih jelas faktor umur pengaruh
+
+135
+00:15:50,750 --> 00:16:00,009
+gian : emang kita perlu memperhatikan user dari segala umur karena target kita ga cuma anak muda
+
+136
+00:16:00,009 --> 00:16:07,960
+rizka : nanya deh, lu dapet inspirasi bikin
+aplikasi ini dari mana?
+
+137
+00:16:07,960 --> 00:16:17,129
+gian : jadi tuh sebenernya saya juga suka
+kucing yang walaupun di rumah enggak miara kucing
+
+138
+00:16:17,340 --> 00:16:21,570
+saya tadinya beli yang 1 kg skrg tinggal segini
+
+139
+00:16:21,570 --> 00:16:31,033
+saya sering bawa ke kampus, atau kucing depan rumah sering dateng
+
+140
+00:16:31,473 --> 00:16:42,567
+terus misalkan kalo ada acara diluar juga saya sering bawa
+
+141
+00:16:42,567 --> 00:16:46,928
+bawa setoples kecing gitu
+
+142
+00:16:55,769 --> 00:17:01,639
+rizka : dari kucing bikin gitu bikin
+aplikasinya
+gian : Iya betul betul
+
+143
+00:17:01,639 --> 00:17:09,230
+rizka : target buat apa gitu
+gian : targetnya buat ya membantu ini disitu yang pengen
+
+144
+00:17:09,230 --> 00:17:15,709
+rizka : informatif
+gian : iya informatif, yang kedua sbenernya saya juga pengen
+
+145
+00:17:15,709 --> 00:17:22,730
+bikin kaya fitur timeline gitu kakk jadi
+apa namanya bisa bagi info tentang
+
+146
+00:17:22,730 --> 00:17:29,839
+kucing sampai upload gambarnya jadi
+kayak misalnya ada kucing jenis anggora
+
+147
+00:17:29,839 --> 00:17:35,648
+nih bulunya jangan disisirin tiap minggu tapi tiap hari
+
+148
+00:17:35,648 --> 00:17:45,158
+bisa gitu kayak pengen  gitu tapi
+itu fiturnya coming soon
+rizka : ya Allah amin
+
+149
+00:17:45,158 --> 00:17:47,079
+gian : ada lagi kak yang mau di tambahin?
+
+150
+00:17:48,397 --> 00:17:50,981
+rizka : udah itu aja
+
+151
+00:17:51,880 --> 00:17:56,148
+kayaknya kalau nggak ada yang ditambahin
+atau ditanya lagi kayaknya sampai sini
+
+152
+00:17:56,148 --> 00:18:02,089
+aja Kak ke interview dari user testing kita
+
+153
+00:18:02,089 --> 00:18:09,259
+terima kasih buat Kak Raihana Rizka
+buat waktunya udah nyempatin diri buat
+
+154
+00:18:09,259 --> 00:18:16,979
+berpartisipasi dalam sebagai tester
+saya sebagai tim developer dari
+
+155
+00:18:16,979 --> 00:18:20,298
+aplikasi tersebut mengucapkan terima kasih yang sebesar besarnya
+
+156
+00:18:20,298 --> 00:18:24,880
+kurang lebihnya mohon maaf, wassalamualaikum wr wb
+
+157
+00:18:24,880 --> 00:18:27,150
+gian : sama ke pooki kak
+
+158
+00:18:29,479 --> 00:18:42,439
+oke mana coba di kasih kameranya
+rizka : bentar diambil dulu sabar Oke
+
+159
+00:18:48,739 --> 00:18:55,579
+dadah dadah dadah dadah pooki bye, gede banget yahh
+
+160
+00:18:55,579 --> 00:18:59,973
+gian : oke kak tenkyuu waktunya, dadah
+

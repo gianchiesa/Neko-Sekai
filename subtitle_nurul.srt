@@ -1,0 +1,928 @@
+﻿1
+00:00:03,048 --> 00:00:12,153
+assalamualaikum warahmatullahi
+wabarakatuh saya gian chiesa maghriza dari mahasiswa ilmu komputer 2018
+
+2
+00:00:12,153 --> 00:00:14,765
+universitas negeri jakarta
+
+3
+00:00:17,239 --> 00:00:25,879
+yang sedang mengambil mata kuliah mobile
+computing ingin menginterview teman saya nurul izzati
+
+4
+00:00:25,879 --> 00:00:33,539
+sebagai pecinta kucing atau pemelihara
+kucing untuk menjadi user tester bagi aplikasi
+
+5
+00:00:33,539 --> 00:00:36,329
+sebelumnya bisa perkenalkan diri kak nurul
+
+6
+00:00:38,420 --> 00:00:46,350
+Halo nama aku nurul izzati aku juga mahasiswa UNJ sekarang sudah semester 5
+
+7
+00:00:46,350 --> 00:00:54,948
+prodinya itu pendidikan tata rias
+gian : aku denger-denger kakak ini ya melihara kucing ya ?
+
+8
+00:00:54,948 --> 00:01:03,658
+Ya ada 2 di rumah
+gian : kucing apa aja kak kalau boleh tau?
+
+9
+00:01:03,658 --> 00:01:10,750
+kucing biasa sih jadi satu dikasih orang, cuma saya ga nanya dia itu apa jenisnya
+
+10
+00:01:10,750 --> 00:01:16,299
+antara Persia kayaknya something nah
+satu lagi kucing kampung karena dia suka
+
+11
+00:01:16,299 --> 00:01:22,228
+datang ke rumah Terus kayak kita suka kasih
+makan jadi dia suka di rumah di teras
+
+12
+00:01:22,228 --> 00:01:26,409
+lama-lama jadi kayak sering dikasih
+makan sering balik ke rumah Gitu Ya
+
+13
+00:01:31,476 --> 00:01:35,049
+kalau keluh kesahnya melihara kucing apa
+
+14
+00:01:35,049 --> 00:01:41,170
+sih Kak kalau misalnya selama ini
+apa ya mungkin karena jadi kucing yang
+
+15
+00:01:41,170 --> 00:01:47,170
+dipelihara itu kan dia udah gede gitu step
+bukan kucing kayak kucing masih bayi gitu
+
+16
+00:01:47,170 --> 00:01:50,950
+Jadi sebenarnya enggak repot nggak
+repot-repot Masih karena kucing emang
+
+17
+00:01:50,950 --> 00:01:57,489
+udah well trained gitu untuk
+kayak bab dan bak itu udah bagus
+
+18
+00:01:57,489 --> 00:02:02,328
+itu mau ditinggal nggak perlu diajarin
+lagi trus juga enggak tahu berisik kita
+
+19
+00:02:02,328 --> 00:02:07,340
+kan kalau kucing kecil kan suka berisik gitu
+terus harus minum susu apa segala
+
+20
+00:02:07,340 --> 00:02:12,590
+macam itu karena kucing dirrawat udah
+gede-gede jadi kek enggak terlalu repot
+
+21
+00:02:12,590 --> 00:02:20,860
+banget sih
+jadi kaya lebih repot melihara anak kucing yang daripada
+
+22
+00:02:20,860 --> 00:02:27,500
+harus ini sih kek lebih banyak ininya
+apa namanya kebutuhan itu kan kalau
+
+23
+00:02:27,500 --> 00:02:33,530
+ kucing kecil itu Terus tapi kucing gede juga sudah Repot juga ya sama
+
+24
+00:02:33,530 --> 00:02:37,969
+repot juga, misal kalau musim kawin suka kabur kaburan
+
+25
+00:02:37,969 --> 00:02:42,229
+kadang-kadang jadi kucing Gue di rumah
+itu nggak boleh masuk ke rumah kan ini
+
+26
+00:02:42,229 --> 00:02:45,949
+ke kamar gitu enggak boleh aja cuma
+boleh di teras sama di kandang dia
+
+27
+00:02:45,949 --> 00:02:51,909
+kadang-kadang itu suka masuk
+rumah Gitu gimana gitu dari lantai dua
+
+28
+00:02:51,909 --> 00:03:00,030
+dari balkon
+emang kayak seru juga ngerawat kucing
+
+29
+00:03:00,030 --> 00:03:07,080
+jadi ada teman
+nurul : jadi dia itu kalau malam malam
+
+30
+00:03:07,080 --> 00:03:13,050
+gitu mungkin ya nggak suka ya Tidur di
+apa namanya teras gitu kan udah sofa dan
+
+31
+00:03:13,050 --> 00:03:18,239
+ada tempat tidur juga tapi nggak suka mungkin ya jadi kadang-kadang malam masuk kamar gitu
+
+32
+00:03:18,239 --> 00:03:25,951
+kan kamar saya di lantai 2 kan itu
+kadang bangun bangn ada si miki
+
+33
+00:03:25,951 --> 00:03:27,354
+namanya tadi siapa kak ?
+
+34
+00:03:27,709 --> 00:03:33,860
+miki sama mikel
+gian : itu kalau boleh tau kelaminnya apa kak ?
+
+35
+00:03:33,949 --> 00:03:39,659
+2 2nya cowok nah mikel ini udah di apa
+steril Miki Belum soalnya itu jatuhnya
+
+36
+00:03:39,659 --> 00:03:46,229
+kayak kucing itu dalam memelihara miki
+itu baru, cuma 2 2nya udah gede
+
+37
+00:03:46,229 --> 00:03:50,869
+kalau boleh tahu tuh bulunya pada tebel tebel apa gimana?
+
+38
+00:03:50,870 --> 00:04:00,009
+kalau Mikel itu emang tebel, karena dikasih orang emang kucing ganteng dia
+
+39
+00:04:00,009 --> 00:04:06,188
+tapi yang aneh Michael itu kek takut
+gitu sama kucing sama kucing takut jadi
+
+40
+00:04:06,188 --> 00:04:11,979
+kayak cat friendly itu kurang
+gitu ya kayak Bahkan dia sama kucing
+
+41
+00:04:11,979 --> 00:04:17,668
+kecil gitu takut gitu ini, jadi sebenernya miki sama mikel gabisa disatuin
+
+42
+00:04:17,668 --> 00:04:19,646
+jadi mikel sering dalem rumah tapi miki sering diluar
+
+43
+00:04:23,550 --> 00:04:28,949
+ada sih di infonya di aplikasi saya kayak gitu
+
+44
+00:04:29,100 --> 00:04:35,279
+jadi terus si miki ama mikel ini kira-kira udh berapa tahun umurnya
+
+45
+00:04:35,279 --> 00:04:42,160
+mikel itu kayak udah 2 tahunan lah jadi
+kucing rumahan tapi miki itu baru-baru
+
+46
+00:04:42,160 --> 00:04:49,600
+beberapa bulan kemarin miki
+jadi Kakak saya tuh suka street feeding
+
+47
+00:04:49,600 --> 00:04:55,149
+kadang-kadang kucing-kucing Kompleks tuh
+suka apa namanya diajak buat makan lagi
+
+48
+00:04:55,149 --> 00:05:03,068
+dikasih makan terus miki itu yang betah sama rumah
+
+49
+00:05:03,910 --> 00:05:10,598
+seru ya kak pengelaman melihara kucing, sebenernya saya juga punya sih wiskas
+
+50
+00:05:10,598 --> 00:05:17,408
+walaupun saya enggak punya kucing
+saya tetap miara ehh apa ngasih makan
+
+51
+00:05:17,408 --> 00:05:26,560
+yang suka ada nunggu depan rumah kan ya
+inisiatif jadi beli wiskas yang sekilo
+
+52
+00:05:26,560 --> 00:05:29,343
+sampai tinggal segini doang
+
+53
+00:05:29,343 --> 00:05:32,450
+nurul : berarti juga suka street feeding juga ya?
+
+54
+00:05:32,949 --> 00:05:38,269
+itu kadang-kadang kalau misalnya kita
+lagi pergi pergi misal ada kegiatan
+
+55
+00:05:38,269 --> 00:05:44,493
+dari kampus itu ke Puncak misalkan kita
+sering kayak pelanting apa-apa/acara
+
+56
+00:05:44,493 --> 00:05:47,546
+itu juga saya kadang bawa, karena emang seru ama kucing itu
+
+57
+00:05:48,759 --> 00:06:00,029
+nurul : dari pada makan ga jelas kan
+gian : karena suka meong-meong depan kita
+
+58
+00:06:02,178 --> 00:06:05,579
+nah mikel itu dia emang kucing rumahan
+
+59
+00:06:05,579 --> 00:06:09,839
+aja di gitu emang nggak bisa keluar gitu
+nggak bisa gimana ya gak bisa dilepas di
+
+60
+00:06:09,839 --> 00:06:15,299
+luar disuruh cari makan sendiri itu gak
+bisa jadi kita harus kasih makan dan mikel
+
+61
+00:06:15,300 --> 00:06:21,319
+gabisa makan sisa kita jadi kayak makan tulang
+tuh dia pasti keselek jadi kayak manja
+
+62
+00:06:21,319 --> 00:06:27,870
+Emang kucing-kucingnya sifatnya harus di
+ini ya kayak dikasih terus Iya mau gak
+
+63
+00:06:27,870 --> 00:06:32,550
+ga bisa dilepas gitu tapi ya mungkin Emang
+di mungkin kucing Ras sih soalnya beda
+
+64
+00:06:32,550 --> 00:06:36,560
+gitu kan kalau kucing kampung bulunya ekornya agak mekar
+
+65
+00:06:37,779 --> 00:06:42,258
+cakep sih, adasih fotonya tapi dia gatau lagi kemana
+
+66
+00:06:45,917 --> 00:06:55,019
+kalao malem bebasin aja kalau mau pulang pulang soalnya mikel
+tuh ga mungkin main jauh-jauh gitu
+
+67
+00:06:55,019 --> 00:06:57,949
+mungkin nggak mungkinlah jauh karena karena kucing rumahan
+
+68
+00:06:57,949 --> 00:07:08,759
+Iya  aman
+gian Oke Kak habis ini nih kita langsung masuk ke ini aja kali ya
+
+69
+00:07:08,759 --> 00:07:16,499
+review aplikasi jadi bisa download dulu
+aplikasinya, saya bagi linknya via WA
+
+70
+00:07:23,278 --> 00:07:34,710
+santai aja kali ngomongnya , udah di kirim link-nya Kak jadi namanya nekosekai
+
+71
+00:07:34,710 --> 00:07:37,310
+artinya itu dunia kucing
+
+72
+00:07:55,110 --> 00:07:58,184
+sudah didownload kak aplikasinya ?
+
+73
+00:07:58,184 --> 00:07:59,516
+nurul : sebentar lagi install
+
+74
+00:08:09,069 --> 00:08:13,269
+ini adek saya bakalan seneng sih dengan ini karena suka kucing
+
+75
+00:08:13,269 --> 00:08:18,158
+kayak walaupun kita aplikasi simple ya
+
+76
+00:08:23,353 --> 00:08:24,237
+gian : udah bisa di buka?
+
+77
+00:08:29,829 --> 00:08:36,708
+nah disitu ada yang namanya Home kita
+kebuka itu Pertama home Oh ya sebelum dari
+
+78
+00:08:36,708 --> 00:08:41,619
+kita ke  halaman Home dari logonya kira-kira gimana menurut kakak
+
+79
+00:08:45,549 --> 00:08:54,009
+logonya tadi katak kucing kecil gitukan teus orangnya nggak ngerti bahasa jepang mungkin gak
+ngerti kalau misalnya ini aplikasi informatif gitu
+
+80
+00:08:54,009 --> 00:08:58,600
+mungkin terjemahan gitu ya kayak tulisan kecil dibawanya
+
+81
+00:08:58,600 --> 00:09:05,508
+atau slogan mungkin "make fun with your cat" gitu
+
+82
+00:09:07,560 --> 00:09:11,677
+makanya tadi saya nanya kan apa itu nekosekai
+
+83
+00:09:12,760 --> 00:09:14,306
+home nya itu yang ini?
+
+84
+00:09:14,755 --> 00:09:18,309
+gian : iya betul, jadi itu di home
+
+85
+00:09:18,620 --> 00:09:24,379
+menampilkan gambar-gambar kucing random
+
+86
+00:09:24,379 --> 00:09:33,379
+dari seluruh database yang
+kita punya itu dia mengrequest data
+
+87
+00:09:33,379 --> 00:09:41,750
+kucing foto-fotonya dulu itu ntar di
+situ Kayak Ya udah bisa dilihat dan bisa di share juga
+
+88
+00:09:41,750 --> 00:09:46,610
+di apa namanya kalau diklik detail itu bisa di share
+
+89
+00:09:46,610 --> 00:09:54,680
+ke itu cuma kita belum membuat fitur share buat gambarnya karena
+
+90
+00:09:56,251 --> 00:09:59,323
+limit dari data kita
+
+91
+00:10:06,629 --> 00:10:14,549
+Oalah Jadi enggak sejenisnya gitu
+ini ada havahan brown teruss ada informasinya
+
+92
+00:10:14,549 --> 00:10:20,970
+buat tampilan home-nya sendiri
+tampilannya ada komentar kakak mungkin
+
+93
+00:10:20,970 --> 00:10:26,879
+ini kan tadi kan nanya ini gaada tulisa homenya
+
+94
+00:10:26,879 --> 00:10:31,740
+ terus coba deh kalau
+misalkan ini kann full kayak gini
+
+95
+00:10:31,740 --> 00:10:36,870
+bawahnya tuh search doang cuman tombol cuman satu
+
+96
+00:10:38,794 --> 00:10:44,221
+kalo aplikasi travelokan bawahnya ada macem macemya ?
+
+97
+00:10:44,221 --> 00:10:47,708
+mungkin bisa dikasih kayak gitu
+
+98
+00:10:53,190 --> 00:11:00,019
+betul betul betul oke itu bisa jadi
+pelajaran buat pengembangan selanjutnya
+
+99
+00:11:00,019 --> 00:11:05,058
+boleh selanjutnya Itu dipercaya ke
+fitur selangit itu ada fitur search
+
+100
+00:11:05,058 --> 00:11:15,735
+kategori atau breeds itu artinya search menurut jenis atau spesies
+
+101
+00:11:17,146 --> 00:11:21,793
+kalau kakak sendiri tertarik ama spesies apa kak kira kira?
+
+102
+00:11:24,909 --> 00:11:30,610
+mucnkin lucu deh tuh kayak yang paling mahal itu british short hair
+
+103
+00:11:30,610 --> 00:11:37,178
+lucu banget sih tapi cuman itu kalau
+nggak salah kucing-kucing buas juga mahal
+
+104
+00:11:37,178 --> 00:11:47,409
+iya iya Savannah itu tapi kek apa ya serem
+
+105
+00:11:47,409 --> 00:11:53,499
+denger-denger itu katanya dia nggak makan daging mateng tapi daging mentah
+
+106
+00:11:53,919 --> 00:11:59,928
+gitu kalo ditinggalin sendiri atau atau
+
+107
+00:12:00,029 --> 00:12:06,080
+di satuin kandangnya Dia itu kadang suka malah makin kucing itunya
+
+108
+00:12:06,080 --> 00:12:18,320
+itu fitur seacrch nya lagi dilihat lihat kak?
+nurul : udh lagi liat british short hail
+
+109
+00:12:18,320 --> 00:12:23,629
+british shore hair itu kalau nggak salah nama lainnya anggora ya ?
+nurul : beda
+
+110
+00:12:24,169 --> 00:12:31,639
+dia  itu rambutnya pendek dan warnanya abu abu
+
+111
+00:12:36,000 --> 00:12:39,014
+ini ada beberapa yang typo
+
+112
+00:12:47,029 --> 00:12:54,809
+target market buat ininya penggunanya
+Tuh kan bisa di tambahin ini
+
+113
+00:12:54,809 --> 00:13:00,009
+apa namanya pengaturan yang bahasanya
+gitu Jadi pakai begini atau Indonesia
+
+114
+00:13:00,009 --> 00:13:04,779
+ soalnya kan Ini judul-judulnya
+apa sih nama aplikasinya Jepang kan
+
+115
+00:13:04,779 --> 00:13:12,809
+terus di dalam bahasa Inggris itu begini
+terus sih walaupun namanya dilihat dari penggunanya itu
+
+116
+00:13:12,809 --> 00:13:18,549
+jadi lebih memudahkan si usernya itu ya
+Dari seluruh dunia karena Emang
+
+117
+00:13:18,549 --> 00:13:24,539
+target kita sih emang dari bukan indonesia atau inggris aja tapi seluruh dunia
+
+118
+00:13:26,789 --> 00:13:31,829
+Oke terima kasih selanjutnya ada lagi kak ?
+
+119
+00:13:32,250 --> 00:13:37,889
+fitur yang bisa ganti-ganti bahasa
+
+120
+00:13:37,889 --> 00:13:47,909
+selanjutnya itu bisa diklik habis dari
+search by category ini bisa diklik aja detailnya
+
+121
+00:13:47,909 --> 00:13:53,799
+masuk ke menu detail Itu ada kayak
+sifat-sifatnya dia gitu jadi kayak ada
+
+122
+00:13:53,799 --> 00:14:01,238
+Health issues jadi kayak tadi itu yang
+kakak bilang apa Dia suka eh apa kayak takut
+
+123
+00:14:01,239 --> 00:14:06,078
+lain gitu nah juara tuh di bawahnya
+cat friendly atau dog friendly atau
+
+124
+00:14:06,078 --> 00:14:14,058
+child friendly itu oh mungkin si Michael
+itunya itu masuk spesies yang sulit
+
+125
+00:14:14,058 --> 00:14:21,698
+berteman dengan kucing lain itu Iya mungkin
+
+126
+00:14:28,389 --> 00:14:37,399
+Ada apa namanya itu health issues jadi
+artinya itu dia itu Rawan sama
+
+127
+00:14:37,399 --> 00:14:42,350
+penyakit apa ga, terus gampang kena
+sakit apa enggak Jadi kita kalau sebelum
+
+128
+00:14:42,350 --> 00:14:48,889
+rawat harus tahu dulu dong infonya kayak
+apa namanya misalnya kalau misal mau
+
+129
+00:14:48,889 --> 00:14:59,689
+bener-bener kayak kucing yang ribet dirawat
+nih kayak kucing yang bulunya panjang manja
+
+130
+00:15:00,029 --> 00:15:05,100
+akhir-akhir mageran
+gain : yang apa-apa harus
+di itu kayak Himalayan Kalau nggak salah
+
+131
+00:15:05,100 --> 00:15:12,049
+tuh Himalayan kan bulunya panjang terus cakep ganteng
+
+132
+00:15:12,049 --> 00:15:18,720
+manja itu bisa dicek dulu disana health issuesnya dia gede apa enggak terus
+
+133
+00:15:18,720 --> 00:15:27,559
+kemampuan adaptasi itu dia gede apa
+enggak ada ada adaptability juga, teruss
+
+134
+00:15:27,559 --> 00:15:28,833
+intelligence
+
+135
+00:15:32,509 --> 00:15:39,529
+kucing Kakak susah disuruh mungkin intelligancenya kurang gitu
+
+136
+00:15:45,620 --> 00:15:53,779
+tuh suka ada apa info-info lain kayak rarity
+
+137
+00:15:53,779 --> 00:16:00,700
+misal kaka mau jual lagi kucing atau
+misalnya mau beli kucing tapi takut ketipi
+
+138
+00:16:00,700 --> 00:16:10,320
+Harganya nih Apaan nih kucingnya kok
+raritynya tapi kecil tapi harganya mahal
+
+139
+00:16:10,320 --> 00:16:20,459
+ada apa namanya misal juga miara anjing
+sama kucing barengan itu bisa dilihat dog friendlynya
+
+140
+00:16:20,460 --> 00:16:28,000
+nurul : mikel itu ternyata dia Persia
+terus dia tuh untuk friendly itu cuma 2
+
+141
+00:16:28,000 --> 00:16:34,440
+bintang itu tuh kayak strange friendlynya 2
+
+142
+00:16:34,440 --> 00:16:40,350
+tidak-tidak friendly with other cat, 0
+
+143
+00:16:42,990 --> 00:16:47,370
+pantesan aja enggak kawin-kawin
+
+144
+00:16:51,990 --> 00:16:59,169
+bawaan dari genetiknya berarti ya kak
+nuru; : energy rate, oh si mikel tidur mulu energy ratenya
+
+145
+00:16:59,169 --> 00:17:06,879
+cuman 1 doang tapi dia lumayan intelligance
+
+146
+00:17:06,880 --> 00:17:11,509
+ada lagi kaya mau disaranin dari fitur-fitur
+detail itu mungkin ada yang kurang kayak
+
+147
+00:17:11,509 --> 00:17:17,199
+untuk data-data yang harus diupdate itu atau ditambahin
+
+148
+00:17:17,199 --> 00:17:28,210
+udah sih paling ini kan  kita klik
+satu jenis kcuing
+
+149
+00:17:28,210 --> 00:17:34,220
+akukan klik yg persia nah itu banyak nih yg muncul
+
+150
+00:17:34,220 --> 00:17:39,829
+padahal informasinya sama kan
+
+151
+00:17:39,829 --> 00:17:45,189
+coba dibikin ini cuma satu terus kayak banyakin gambarnya
+
+152
+00:17:45,190 --> 00:17:52,120
+Oh ya jadi kayak tombolnya satu aja tapi gambarnya banyak
+
+153
+00:17:52,120 --> 00:17:54,115
+nah bisa gambarnya di slide aja gitu
+
+154
+00:17:57,759 --> 00:18:04,579
+fitur selanjutnya itu ada fitur share kalau eggak salah, itu bisa membagikan
+
+155
+00:18:04,579 --> 00:18:13,339
+info-info tersebut ke melalui apa, entah itu aplikasi
+
+156
+00:18:13,339 --> 00:18:20,209
+chat atau aplikasi apa namanya yang lainnya
+
+157
+00:18:20,210 --> 00:18:27,739
+menginput si namanya dan deskripsinya
+tapi untuk saat ini kita baru
+
+158
+00:18:27,739 --> 00:18:32,239
+menginputnya sih nama dan deskripsinya
+
+159
+00:18:32,239 --> 00:18:38,569
+eh sifatnya Karena untuk kayak
+kemampuan-kemampuan yang itu kayak
+
+160
+00:18:38,569 --> 00:18:45,960
+cat friendly dog friendly itu masih mungkin di coming
+soon itu bisa dicoba aja dulu kak
+
+161
+00:18:45,960 --> 00:18:49,679
+udah nyoba sih bisa sih cuman kayak
+deskripsi doang kayak nama sama
+
+162
+00:18:49,679 --> 00:18:55,079
+deskripsi jadi belum ada ini gambarnya
+ya Iya belum ada gambarnya karena apa ya
+
+163
+00:18:55,079 --> 00:19:04,650
+dari API itu membatasi kita buat
+mengshare gambarnya jadi harus membayar
+
+164
+00:19:04,950 --> 00:19:09,190
+ada lagi yang mau ditanya mungkin atau
+dari keseluruhan tersebut pendapatnya
+
+165
+00:19:09,190 --> 00:19:15,690
+itu atau mungkin dari tampilannya
+warnanya musik diganti nih gitu
+
+166
+00:19:15,690 --> 00:19:20,470
+kalau dari aku yang keseluruhan ini kan
+warnanya luce warna krem gitu tuh ya
+
+167
+00:19:20,470 --> 00:19:26,609
+namanya juga udh imut nekosekai terus
+udah sih Paling itu udah bagus gitu
+
+168
+00:19:26,609 --> 00:19:30,700
+keseluruhan paling yang tadi itu yang
+mungkin kalau misalnya mau nambahin gitu
+
+169
+00:19:30,700 --> 00:19:37,380
+Ini bawah itu diaplikasikan travoloka atau apa
+gitu bagian atasnya ini orang tuh ini bagian mana
+
+170
+00:19:38,160 --> 00:19:43,290
+biar mempermudah di-user experience
+
+171
+00:20:02,756 --> 00:20:05,170
+ada fotonya ga kak si mikel ?
+
+172
+00:20:05,170 --> 00:20:08,869
+ada fotonya sih
+
+173
+00:20:08,869 --> 00:20:10,539
+Coba boleh di tunjukin kak
+
+174
+00:20:10,750 --> 00:20:16,309
+mikel itu emang doyannya tidur, tapi emang kucing kayaknya gitu ya?
+
+175
+00:20:16,309 --> 00:20:21,589
+itu tidur doang kan tergantung kalau
+misalnya udah gede Mungkin emang pemalas
+
+176
+00:20:21,589 --> 00:20:26,109
+ini kayaknya tapi kalau masih kecil itu kayaknya aktif
+
+177
+00:20:26,109 --> 00:20:28,235
+oh iya ganteng
+
+178
+00:20:31,570 --> 00:20:37,134
+emng ganteng mikel tapi gabisa bergaul
+
+179
+00:20:38,930 --> 00:20:42,736
+mikel sama kucing kecil takut dong
+
+180
+00:20:45,490 --> 00:20:50,920
+kalau di deket rumahnya itu Dia takut ama kecoa kadang engga
+
+181
+00:20:54,460 --> 00:21:00,898
+sama hewan yang mungkin beda jenis gitu
+ya kayak kayak kecoak gitu tikus besok
+
+182
+00:21:00,898 --> 00:21:06,058
+enggak sih bisa-bisa aja tapi dia juga
+lagi ngelawan gitu cuma ya udah di diemin
+
+183
+00:21:06,058 --> 00:21:13,798
+cuman kalau kucing kayaknya ...Aduh
+kucing gitu loh takut banget kalo
+
+184
+00:21:13,798 --> 00:21:21,858
+misalnya ada itu kucing yang kalau ada
+tikus tuh langsung insting memburunya keluar, kalau mikel itu
+
+185
+00:21:21,858 --> 00:21:24,426
+apa didiemin aja ?
+
+186
+00:21:24,683 --> 00:21:28,002
+kalau miki sama mikel mungkin karena udah tua kali ya
+
+187
+00:21:28,002 --> 00:21:33,019
+mager gitu ya udahlah ngapain berburu tikus
+
+188
+00:21:35,028 --> 00:21:39,989
+mager kucingnya cuman nggak gendut Jadi
+kucing-kucing itu enggak ada yang obes
+
+189
+00:21:39,989 --> 00:21:44,808
+ dua-duanya walaupun mikel udah di steril
+
+190
+00:21:44,808 --> 00:21:47,478
+dan semejak di steril bulunya jadi lebih bagus
+
+191
+00:21:55,591 --> 00:21:58,607
+tapi di steril itu termasuk di kebiri ga si kak?
+
+192
+00:22:00,329 --> 00:22:06,059
+biar gak kabur kabura gitu tiba tiba pulang bawa anak
+
+193
+00:22:06,059 --> 00:22:13,859
+Nah ini biasanya yang kucing yang betina
+
+194
+00:22:13,859 --> 00:22:24,330
+tapi betina gampang gendut
+gian : tapip dari bayangan kaka gampangan miara kucing cewe apa laki?
+
+195
+00:22:24,869 --> 00:22:31,900
+sebenernya sama aja kalau 2 2 nya udah di steril ya oke cowok Kalau kucing
+
+196
+00:22:31,900 --> 00:22:37,150
+cowok itu dia memang lebih suka eksplor
+gitu kan kabur-kaburan cuman dia
+
+197
+00:22:37,150 --> 00:22:41,799
+balik lagi juga dan ketika dia balik
+itu enggak bawa anak nggak bawa anak itu
+
+198
+00:22:41,799 --> 00:22:45,460
+kalau cewek tuh kalau dia enggak disteril
+udah pasti udah pasti bawa anak
+
+199
+00:22:45,460 --> 00:22:51,821
+kadang-kadang enggak tahu lahiran
+gimana gitu
+
+200
+00:22:55,380 --> 00:23:02,650
+oke kak kayaknya udah segitu aja interview dari saya
+
+201
+00:23:02,650 --> 00:23:07,029
+kira-kira Ada yang mau ditanyain
+atau ditambahin sebelum terakhir nih
+
+202
+00:23:07,029 --> 00:23:15,039
+udah sih kayaknya bagus kok Oke terima
+kasih buat nurul izzati atas waktunya
+
+203
+00:23:15,039 --> 00:23:19,400
+kurang lebihnya mohon maaf saya
+sebagai tim pengembang mengucapkan
+
+204
+00:23:19,400 --> 00:23:24,720
+terima kasih yang sebesar-besarnya
+wassalamu'alaikum warahmatullahi wabarukatuh
+
+205
+00:23:24,720 --> 00:23:26,137
+waalaikumsalam wr wb
+

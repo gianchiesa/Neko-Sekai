@@ -1,0 +1,820 @@
+﻿1
+00:00:02,724 --> 00:00:10,138
+gian : oke assalamualaikum wr rb, saya disini gian chiesa maghriza
+sebagai mahasiswa ilmu komputer yang
+
+2
+00:00:10,138 --> 00:00:17,750
+gian : mengambil mata kuliah mobile computing, saya disini dalam rangka memenuhi tugas akhir saya
+
+3
+00:00:17,750 --> 00:00:24,980
+gian : untuk interview untuk
+aplikasi saya sebagai user testing
+
+4
+00:00:24,980 --> 00:00:30,980
+gian : disini udah ada kak afriliasa nur rosifa, halo kak lisa
+
+5
+00:00:30,980 --> 00:00:37,200
+lisa : Halo ya
+gian : Jadi ka lisa ini disini
+sebagai user tester kita untuk aplikasi
+
+6
+00:00:37,200 --> 00:00:43,259
+gian : saya yang bernama nekosekai, itu aplikasi tentang info-info kucing dan berbagai
+
+7
+00:00:43,259 --> 00:00:48,840
+gian : fitur lainnya, jadi Ka lisa ini sebagai target user saya yaitu pemelihara kucing
+
+8
+00:00:48,840 --> 00:00:51,469
+gian : bener gak si kak, kakak memelihara kucing sekarang ?
+
+9
+00:00:52,090 --> 00:00:55,006
+lisa : iya benar, nih ada kucingnya
+
+10
+00:00:55,429 --> 00:01:00,009
+gian : lucu banget, itu ada kalungnya lagi lucu banget
+
+11
+00:01:01,280 --> 00:01:07,920
+gian ; Namanya siapa kalau boleh tahu?
+lisa : namanya Conan Pony
+
+12
+00:01:09,560 --> 00:01:11,383
+gian :  kalau boleh tahu kucingnya berapa Kak?
+
+13
+00:01:13,394 --> 00:01:14,774
+lisa : kurang lebih itu saat ini satu aja
+
+14
+00:01:15,959 --> 00:01:18,000
+gian : ga ada rencana mau nambah lagi mungkin ?
+
+15
+00:01:19,080 --> 00:01:23,317
+lisa : karena dia betina kemungkinan untuk nambahnya cukup besar
+
+16
+00:01:24,672 --> 00:01:29,129
+gian : karena bisa tahu-tahu pulang bawa anak mungkin ya
+
+17
+00:01:29,129 --> 00:01:34,780
+gian :  kalau boleh tahu udah berapa lama memelihara kucing?
+lisa : sebenarnya kalau untuk
+
+18
+00:01:34,780 --> 00:01:41,140
+lisa : memelihara kucing pas SD pernah tapi karena SD ga terlalu diurus Jadi pas
+
+19
+00:01:41,140 --> 00:01:46,539
+lisa : mati jadi enggak terlalu Lisa urus
+banget gitu kayak yaudah kucing kampng
+
+20
+00:01:46,539 --> 00:01:51,459
+lisa :  cuma dikasih makan dan main setelah
+itu baru mulai lagi baru sekarang kayak
+
+21
+00:01:51,459 --> 00:01:56,739
+lisa : baru tiga bulanan jadi jadi melihara
+kucing baru tiga bulan untuk yang sekarang
+
+22
+00:01:56,739 --> 00:02:01,810
+gian : dan umur kucingnya Kalau boleh tahu itu berapa kak umurnya ?
+
+23
+00:02:04,478 --> 00:02:11,229
+lisa : umurnya masih 4-5 bulan
+gian: masih kecil juga itu kelaitannya ya
+
+24
+00:02:11,229 --> 00:02:18,280
+gian : Kalau ada Itu pas miara kucing itu
+pengalamannya pasti keluh kesahnya
+
+25
+00:02:21,500 --> 00:02:27,378
+sebenarnya lebih ke biayanya jadi karena
+ternyata untuk memelihara atau Adobt
+
+26
+00:02:27,378 --> 00:02:31,610
+kucing tuh cukup menguras biaya terutama
+untuk makan apalagi kalau lagi sakit
+
+27
+00:02:31,610 --> 00:02:40,269
+karena kemarin sempet sakit itu
+panik sendiri kan takut jadi lebih ke biaya
+
+28
+00:02:40,269 --> 00:02:46,310
+enggak ada terlalu gimana-gimana sih
+paling kalau lagi krengki dicakar dikit
+
+29
+00:02:46,310 --> 00:02:53,030
+digigit lebih gitu aja
+gian : kalau boleh tahu sifat-sifat kucing kakak itu
+
+30
+00:02:53,030 --> 00:02:59,120
+gmana si kebiasaannya di rumah gitu
+aku males mungkin
+lisa : kalau conan
+
+31
+00:02:59,120 --> 00:03:04,020
+sendiri tuh udah ada jadwalnya gitu
+jadi Conan kalau bangun tuh pagi banget
+
+32
+00:03:04,020 --> 00:03:09,180
+kan namanya kan conan ya kucingnya
+bangunnya pagi banget mungkin bisa jam
+
+33
+00:03:09,180 --> 00:03:13,500
+lima jam enam gitu karena udah bangun
+dan biasanya kalo bangun laper Nah kalo
+
+34
+00:03:13,500 --> 00:03:18,930
+laper sebelum dikasih makan ya bakal
+galak banget bener-bener galak menggigit
+
+35
+00:03:18,930 --> 00:03:25,409
+terus ngeong lari-lari pokoknya ribet
+banget sampai nanti dikasih makan baru
+
+36
+00:03:25,409 --> 00:03:32,580
+Nanti rada kalem nanti setelah masuk
+10.00 gitu ya bakal berjemur jadikan ada
+
+37
+00:03:32,580 --> 00:03:37,280
+teras gitu dia bakal berjemur dibawah pohon sampai
+
+38
+00:03:37,280 --> 00:03:44,219
+11.00 12.00 dan nanti kalau laper dateng
+lagi makan lagi Nah setelah itu dari
+
+39
+00:03:44,219 --> 00:03:53,869
+12.00 bisa sampai magrib ya tidur jadi ya udah abis tidur magrib biasanya udah malem gini
+
+40
+00:03:53,870 --> 00:03:58,050
+main-main santai aja sih enggak terlalu
+krengki enggak terlalu manja atau males
+
+41
+00:03:58,050 --> 00:04:04,628
+jadi ya gitu baru-baru tidurnya
+lagi bisa 11.00 1.00 tapi kalau dia
+
+42
+00:04:04,628 --> 00:04:09,669
+kebanyakan tidur pas siangnya biasa
+begadang gitu lebih 02.00 jadi deh untuk
+
+43
+00:04:09,669 --> 00:04:16,180
+kelakuan conan
+gian : jadi kayak begini
+bilang males juga enggak tapi aktif
+
+44
+00:04:16,180 --> 00:04:20,798
+malam hari gitu ya
+lisa : Iya di malam hari kalau baru bangun tidur
+
+45
+00:04:20,798 --> 00:04:24,779
+Kalo laper sih ininya dia aktif kalau dia lagi lapar
+
+46
+00:04:25,344 --> 00:04:28,298
+gian : kalau boleh tau
+
+47
+00:04:31,769 --> 00:04:39,449
+apa namanya pernah bawa si konan itu
+ke dokter hewan atau gimana gitu?
+
+48
+00:04:39,449 --> 00:04:44,918
+lisa : untuk bawa ke dokter hewan
+sejauh ini belum pernah sih karena Emang
+
+49
+00:04:44,918 --> 00:04:50,680
+belum ada waktunya juga Jadi belum
+sempet buat divaksin Atau segala macam
+
+50
+00:04:50,680 --> 00:04:51,283
+belum sempet sih konon itu betina
+
+51
+00:04:51,283 --> 00:04:53,278
+gian : oh ya si conan itu betina kan ya?
+
+52
+00:04:54,238 --> 00:04:58,009
+lisa : iya betina, namanya aja conan
+
+53
+00:04:58,740 --> 00:05:05,089
+nggak dikebiri gitu apa gimana, apa emang Biarin
+lisa : sempet ada rencana jadi
+
+54
+00:05:05,089 --> 00:05:10,728
+niatnya ini Enggak tahu sih ya nanti
+gimana Tapi niatnya jadi eh sempat apa
+
+55
+00:05:10,728 --> 00:05:16,038
+mau ngasih kesempatan sekali ke
+dia gimana rasain punya anak habis itu
+
+56
+00:05:16,038 --> 00:05:20,810
+kalau dia habis punya anak ada niat buat
+dikebiri tapi belum tahu nih mau
+
+57
+00:05:20,810 --> 00:05:26,060
+masih cari tau Info lanjutan juga Apa
+dampak kalau dia dikebiri Takutnya nanti
+
+58
+00:05:26,060 --> 00:05:30,288
+jadi sakit atau gimana Kan kasian juga kayak gitu
+gian : jangan sembarangan ya
+
+59
+00:05:30,288 --> 00:05:39,009
+lisa : iya masih mau cari tahu lebih lagi sih
+gian : Oke kita langsung aja ke aplikasi saya
+
+60
+00:05:39,009 --> 00:05:44,529
+kan udah terbukti kakak itu target user saya
+
+61
+00:05:44,529 --> 00:05:51,228
+saya kasih linknya aja langsung
+di WA ya , jadi ini udah bisa
+
+62
+00:05:51,228 --> 00:06:00,008
+di download di playstore link-nya
+aplikasinya
+
+63
+00:06:10,678 --> 00:06:14,182
+lisa : neko sekai ya?
+gian : iya neko sekai, kalau udah bilang ya kak
+
+64
+00:06:16,950 --> 00:06:18,141
+lisa : udah
+
+65
+00:06:18,439 --> 00:06:26,480
+gian :  boleh langsung dibuka aja karena
+Emang ukurannya agak kecil sih
+
+66
+00:06:26,480 --> 00:06:33,589
+yaitu ada lagonya, boleh dari komentar
+pertama mungkin di logonya mungkin
+
+67
+00:06:33,589 --> 00:06:39,979
+lisa : gemoy... logonya kucing banget sih
+
+68
+00:06:39,980 --> 00:06:49,939
+gian : ya emang ini kayak pengen menarik sebanyak mungkin
+
+69
+00:06:49,939 --> 00:06:54,769
+pakai logo kucing beneran atau siluet itu udah biasa
+
+70
+00:07:00,009 --> 00:07:07,718
+lisa : lucu banget ini ada pict from nekosekai ini udah kebuka si aplikasinya
+
+71
+00:07:07,718 --> 00:07:16,918
+gian : jadi disitu ada fitur pertama yaitu
+dihome itu dia ada random picture from
+
+72
+00:07:16,918 --> 00:07:23,459
+mana aja itu dari dunia, Entah dari luar negeri atau dalam negeri
+
+73
+00:07:23,459 --> 00:07:30,959
+gambar-gambar random tentang kucing atau mengenai kucing
+
+74
+00:07:30,959 --> 00:07:36,908
+itu Belum ada ininya, kalau
+di home itu dia belum ada kayak
+
+75
+00:07:36,908 --> 00:07:41,319
+jenisnya atau deskripsi itu belum ada
+karena kan emang gambar-gambar random
+
+76
+00:07:41,319 --> 00:07:47,430
+kita nggak tahu itu apa namanya, jenisnya apa, kita gabisa asal ngasih info juga
+
+77
+00:07:47,968 --> 00:07:57,418
+menurut kakak itu di home ada komentar ga ? dari segi tampilannya gitu? atau dari warna
+
+78
+00:07:57,418 --> 00:08:04,060
+lisa : simpel terus juga karena dia devidcenya di tab juga cukup
+
+79
+00:08:04,060 --> 00:08:06,839
+jelas juga untuk akan lagi paketnya
+awalnya Iya lagi Paket Oh ya oke oke
+
+80
+00:08:06,839 --> 00:08:08,589
+gian : kaka lagi pake tab ya ?
+
+81
+00:08:09,606 --> 00:08:10,924
+lisa : iya lagi pake tab
+
+82
+00:08:12,139 --> 00:08:13,577
+gian : oke boleh boleh
+
+83
+00:08:14,509 --> 00:08:16,558
+lisa : ga ngelag juga
+
+84
+00:08:18,639 --> 00:08:23,889
+gian : Emang aplikasi lumayan ringan soalnya cuma 4 mb kalau gasalah
+
+85
+00:08:24,482 --> 00:08:26,561
+lisa : iya ringan ga ngelag
+
+86
+00:08:27,668 --> 00:08:33,840
+gian : dari segi fungsionalitas udah ini kak?
+gambarnya muncul gitu ya?
+
+87
+00:08:33,840 --> 00:08:35,211
+lisa : iya udh muncul semuanya
+
+88
+00:08:35,269 --> 00:08:42,530
+gambar-gambarnya oke apa fitur buat
+ngeklik detailnya juga udah bisa
+
+89
+00:08:43,322 --> 00:08:49,970
+gian : kita lanjut ke fitur selanjutnya di tadi dihome itu ada tombol floating button Kalau enggak
+
+90
+00:08:49,970 --> 00:08:53,289
+salah, floating button, tombol search
+
+91
+00:08:53,289 --> 00:09:00,870
+Nah itu bisa dicoba aja Kak itu
+kita jadi fitur search by kategori atau
+
+92
+00:09:00,870 --> 00:09:07,320
+By breeds by jenis ya spesies
+Kucingnya jadi itu ada semua jenis kucing
+
+93
+00:09:07,320 --> 00:09:13,419
+ada 90 jenis Kalau gasalah
+itu lebih itu bisa dicari mungkin kucing favorit kakak
+
+94
+00:09:13,419 --> 00:09:15,764
+di lihat lihat dulu, dicari cari gitu
+
+95
+00:09:18,000 --> 00:09:20,385
+lisa : coba aku pilih himalayan ya?
+
+96
+00:09:22,610 --> 00:09:26,004
+loh terus keluar gambar, oh ini himalayan kayak gini
+
+97
+00:09:26,343 --> 00:09:36,559
+gian : ya kalau himalayan itu jadi warnanya muda tapi ada warna tua itu di hidung, dikaki dan di ekor
+
+98
+00:09:36,559 --> 00:09:37,904
+lisa : iya iya
+
+99
+00:09:38,659 --> 00:09:47,007
+gian : ya tuh disitu fungsionalitas dari
+fitur searchnya bekerja ya kak?
+
+100
+00:09:47,007 --> 00:09:47,949
+lisa : berkerja kok
+
+101
+00:09:48,080 --> 00:09:53,210
+gian : Oke oke kalau dari komentarnya mungkin feedbacknya
+
+102
+00:09:53,662 --> 00:09:54,967
+lisa : untuk komentarnya
+
+103
+00:09:55,490 --> 00:10:02,259
+untuk fitur ini udah berfungsi secara
+baik, terus tadi menurut aku kayak
+
+104
+00:10:02,259 --> 00:10:05,519
+bisa ini kan Malayan dia enggak
+
+105
+00:10:05,519 --> 00:10:14,019
+ya gimana dari morfologi dan juga
+ini ya kayak kepintarannya ke apa ada
+
+106
+00:10:14,019 --> 00:10:19,450
+adaptif dan segala macemnya menurut aku
+kayak cukup jadi Insight baru aja sih
+
+107
+00:10:19,450 --> 00:10:25,389
+Buat aku sendiri
+gian : Oke berarti kata udah langsung nyoba itu ya tadi detailnya itu
+
+108
+00:10:26,378 --> 00:10:28,265
+lisa : iya udah dicoba juga
+
+109
+00:10:28,265 --> 00:10:34,058
+gian : jadi disitu ada kayak adaptbility, ada cat friendly
+
+110
+00:10:35,499 --> 00:10:37,160
+dan lain lain
+
+111
+00:10:37,350 --> 00:10:43,779
+jadi misalnya Kakak punya kucing terus ada
+anjing juga di rumah meliharaa dua-duanya
+
+112
+00:10:43,779 --> 00:10:48,480
+misalnya ya bisa ketahuan tuh dog friendlynya
+
+113
+00:10:48,480 --> 00:10:53,850
+itu akrab ga si sama kucing sama anjing, atau sama hewan lain gitu
+
+114
+00:10:58,289 --> 00:11:06,458
+gian : kalau dari fitur detailnya itu ada feedback atau komentar kak ?
+
+115
+00:11:06,458 --> 00:11:11,629
+lisa : menurut aku untuk fitur
+detailnya ini di tiap kotaknya tuh
+
+116
+00:11:11,629 --> 00:11:19,600
+sebenarnya tulisannya sama ya ?
+gian : ya Jadi betul-betul jadi kayak misalnya kucing
+
+117
+00:11:19,600 --> 00:11:27,078
+anggora ya eh bukan anggota doang
+misalnya kucing gitulah ya
+
+118
+00:11:27,078 --> 00:11:30,039
+Kucing itu enggak mungkin satu warna doang
+
+119
+00:11:30,039 --> 00:11:36,470
+ya jadi walaupun kita penjelasannya sama
+jadi kita bisa mengget mendapatkan
+
+120
+00:11:36,470 --> 00:11:39,249
+gambar-gambar referensi lainnya gitu loh
+
+121
+00:11:39,249 --> 00:11:40,668
+fungsinya itu
+
+122
+00:11:41,499 --> 00:11:44,229
+jadi refrensi kita ga cuma 1
+
+123
+00:11:44,229 --> 00:11:49,335
+lisa : oh jadi maksudnya itu kenapa banyak kotak kotak karena di jenis ini
+
+124
+00:11:49,399 --> 00:11:56,636
+dia punya berbagai macam bulu
+juga ya, karena bulunya sendiri tuh Ya
+
+125
+00:12:04,580 --> 00:12:14,059
+gian : gitu kak fungsinya, Oke kalau dari Segi informasinya Gimana kak dideskripsinya tsb
+
+126
+00:12:14,059 --> 00:12:18,690
+lisa : Kalau dari segi informasinya memuat
+informasi yang cukup ini ya detail dan
+
+127
+00:12:18,690 --> 00:12:24,620
+jelas juga dari penjelasan awal sampai apa yang harus
+
+128
+00:12:24,620 --> 00:12:31,440
+di apa namanya kayak misalkan ya ini yok
+york coklat gitu ini kayak unlike many
+
+129
+00:12:31,440 --> 00:12:39,589
+otherr cat Oh jadi dia sama kucing lain
+tuh bisa akrab istilahnya kan kayak gitu
+
+130
+00:12:39,620 --> 00:12:45,809
+jadi oh unlike itu enggak akrab bisa
+jadi ini jadi salah satu apa ya
+
+131
+00:12:45,809 --> 00:12:52,080
+parameter jadi kalau mau memelihara ini
+jenis ini kita punya apa namanya
+
+132
+00:12:52,080 --> 00:12:57,210
+tambahan gitu Oh jangan-jangan punya
+peliharaan yang ini atau jangan punya anjing
+
+133
+00:12:57,210 --> 00:13:03,009
+kayak gitu ya
+gian : betul-betul jadi kayak acuan laut referensi dulu sebelum ini
+
+134
+00:13:03,009 --> 00:13:08,279
+takutnya nanti udh beli/adopt/miara kcuing
+
+135
+00:13:10,710 --> 00:13:17,070
+Udah ada kucing dua biji itu entar tia[ hari berantem mulu
+
+136
+00:13:17,070 --> 00:13:19,999
+lisa : ntar pusing sendiri ya
+
+137
+00:13:20,279 --> 00:13:27,899
+gian : ok langsung aja kali ke fitur selanjutnya,
+tadi fungsi dari detail udah berjalan dengan baik ?
+
+138
+00:13:28,181 --> 00:13:29,489
+lisa : udah kak
+
+139
+00:13:30,000 --> 00:13:37,480
+gian : Oke fitur selanjutnya itu ada
+fitur share ini di deskripsi itu ada eh
+
+140
+00:13:37,480 --> 00:13:47,819
+tadi detail paget tsb ada logo share itu
+bisa... betul-betul disitu bisa di pencet aja
+
+141
+00:13:47,819 --> 00:13:49,444
+nanit bakal muncul pop up
+
+142
+00:13:50,220 --> 00:13:56,490
+lisa : bisa di share ke medsos lain gitu ya ?
+gian : iya betul
+
+143
+00:13:56,490 --> 00:14:03,799
+misalnya deskripsinya itu bisa share,
+tapi untuk saat ini kita sih baru bisa
+
+144
+00:14:03,799 --> 00:14:09,188
+menggeser deskripsinya aja sama si jenis nya aja
+
+145
+00:14:13,239 --> 00:14:18,759
+untuk sifat-sifat begitu kita belum bisa karena itu mungkin akan
+
+146
+00:14:18,759 --> 00:14:26,769
+diadaptasi di fitur selanjutnya karena
+APInya juga mungkin akan berrbayar
+
+147
+00:14:26,769 --> 00:14:34,578
+lisa : jadi ketika di-share dia memunculkan deskripsi teks aja ya
+gian :  ya betul deskripsi
+
+148
+00:14:34,578 --> 00:14:42,818
+teks dan jenisnya dia nanti, mungkin kalau ini ada banyak ada bintang-bintang kita adaptasikan
+
+149
+00:14:42,818 --> 00:14:51,519
+karena kita juga butuh apa namanya
+output dari itunya icon itu susah
+
+150
+00:14:57,495 --> 00:15:00,712
+lisa : butuh proses jugalah ya
+
+151
+00:15:03,791 --> 00:15:10,909
+gian : kayaknya udah selesai fitur semuanya ya kalau untuk secara overall
+
+152
+00:15:10,909 --> 00:15:18,809
+ada komentar Ya atau dari feedbacknya
+lisa : untuk feedbacknya menurut aku ini
+
+153
+00:15:18,809 --> 00:15:23,989
+bermanfaat banget ya aplikasi ini untuk
+
+154
+00:15:23,990 --> 00:15:30,480
+masyarakat yang baru mau mulai adopsi
+kucing jadi deh bisa milih-milih jangan
+
+155
+00:15:30,480 --> 00:15:34,500
+jangan sampai ketipu apalagi kalau
+misalkan mau beli kucing kayak ditipu
+
+156
+00:15:34,500 --> 00:15:40,679
+sama Abang Abangnya ini mah oh Himalaya
+ini mah anggora padahal ya nggak sesuai
+
+157
+00:15:40,679 --> 00:15:44,299
+sama yang sebenarnya gitu
+
+158
+00:15:44,299 --> 00:15:50,450
+cukup bermanfaat dan juga kita bisa
+lihat detailnya juga deskripsi dan juga
+
+159
+00:15:50,450 --> 00:16:00,009
+apa sifat-sifatnya ya secara
+keseluruhan kalau direte aku 8/10 sih
+
+160
+00:16:00,009 --> 00:16:10,319
+karena mungkin itu tadi ya masih banyak
+yang harus bikin adaptasi in juga
+
+161
+00:16:10,860 --> 00:16:16,960
+mungkin kalau misalkan di sini kan ada
+berbagai macam kucing bisa-bisa aja
+
+162
+00:16:16,960 --> 00:16:23,309
+kayak ada fitur untuk menambah jenis
+kucing atau mendeteksi kucing itu ya
+
+163
+00:16:23,309 --> 00:16:29,049
+jadi ketika difoto Oh ini apa gitu ya
+gian : jadi saya itu sebenarnya pengen buat
+
+164
+00:16:29,049 --> 00:16:36,389
+fitur timeline ya nanti Oh ya jadi
+di timeline di aplikasi tersebut itu
+
+165
+00:16:36,389 --> 00:16:42,419
+apa namanya bisa ngeshare info Jadi
+kalau misalnya kucing anggora itu jangan disisir
+
+166
+00:16:42,419 --> 00:16:48,549
+3 hari sekali tapi disisir satu hari
+sekali karena buat bulunya kusut
+
+167
+00:16:48,549 --> 00:16:54,360
+atau gimana gitu nanti juga bakal bisa naik begitu jadinya berbagi info sesama pecinta kcuing
+
+168
+00:16:54,360 --> 00:17:01,879
+lisa : Iya benar benar-benar ya kedepannya sendiri untuk sejauh ini
+
+169
+00:17:01,879 --> 00:17:05,980
+cukup bagus dan cukup bermanfaatlah
+fungsinya juga berjalan dengan normal
+
+170
+00:17:05,980 --> 00:17:14,859
+bisa buat eh di-share juga kan jadi enggak cuma diri sendiri yang tahu orang terdekat atau
+
+171
+00:17:14,859 --> 00:17:21,939
+majikan ataupun babu babu lainnya kita
+bisa saling karena bisa sharing info
+
+172
+00:17:21,939 --> 00:17:29,109
+gian : karena sistemnya kalau miara kucing itu
+kita kucing jadi majikan ya?
+
+173
+00:17:29,109 --> 00:17:37,210
+lisa : iiya apapu yg mau, dia yang mau diturutin
+sama kucingkan harus dipenuhi nanti ngambek
+
+174
+00:17:37,210 --> 00:17:48,460
+gian : Oke kayaknya udah cukup ya dari
+user testing aplikasi saya yang bernama nekosekai
+
+175
+00:17:48,460 --> 00:17:55,808
+untuk saran dan feedbacknya akan saya tampung untuk kedepannya agar aplikasinya lebih baik lagi
+
+176
+00:17:55,808 --> 00:18:03,288
+sekali lagi Terima kasih buat kakak afrilisa
+buat partisipasinya menjadi user tester
+
+177
+00:18:03,288 --> 00:18:07,528
+kurang lebihnya mohon maaf dari saya terakhir
+
+178
+00:18:07,528 --> 00:18:09,767
+wassalamualaikum wr wb
+
+179
+00:18:09,767 --> 00:18:11,820
+lisa : waalaikumsalam wr wb
+
+180
+00:18:11,820 --> 00:18:13,539
+gian dan lisa : dadah
+
