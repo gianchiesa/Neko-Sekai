@@ -6,7 +6,7 @@ Neko Sekai is Mobile Apps that user can find their favorite cat info also if use
 
 https://play.google.com/store/apps/details?id=com.gianchiesamaghriza.nekosekai
 
-# Testers Profile
+# Tester's Profiles
 
 - Afrilisa Nur Rosifa (She raising a cat since elementary school)
 - Raihana Rizka Adriani (She raising 3 cat, the one is anggora that need more info for treatment, and the other is a usual cat)
