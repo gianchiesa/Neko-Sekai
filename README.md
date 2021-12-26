@@ -19,6 +19,6 @@ Video :
 - https://youtu.be/a_PeFWBleyE (Nurul Izzati) Testing conducted on Friday, 24 December 2021
 
 Subtitle :
-- (Afrilisa Nur Rosifa)
-- (Raihana Rizka Adriani)
-- (Nurul Izzati)
+- https://github.com/gianchiesa/Neko-Sekai/blob/master/subtitle_lisa.srt (Afrilisa Nur Rosifa)
+- https://github.com/gianchiesa/Neko-Sekai/blob/master/subtitle_rizka.srt (Raihana Rizka Adriani)
+- https://github.com/gianchiesa/Neko-Sekai/blob/master/subtitle_nurul.srt (Nurul Izzati)
