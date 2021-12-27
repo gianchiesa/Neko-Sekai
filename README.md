@@ -6,7 +6,7 @@ Neko Sekai is Mobile Apps that user can find their favorite cat info also if use
 
 https://play.google.com/store/apps/details?id=com.gianchiesamaghriza.nekosekai
 
-# Tester's Profiles
+# Testers Profile
 
 - Afrilisa Nur Rosifa (She raising a cat since elementary school)
 - Raihana Rizka Adriani (She raising 3 cat, the one is anggora that need more info for treatment, and the other is a usual cat)
@@ -14,9 +14,9 @@ https://play.google.com/store/apps/details?id=com.gianchiesamaghriza.nekosekai
 
 # User Testing Links
 Video :
-- https://youtu.be/OHnNqfymFJM (Afrilisa Nur Rosifa) Testing conducted on Saturday, 25 December 2021
-- https://youtu.be/74YaSiHxzVY (Raihana Rizka Adriani) Testing conducted on Friday, 24 December 2021
-- https://youtu.be/a_PeFWBleyE (Nurul Izzati) Testing conducted on Friday, 24 December 2021
+- https://youtu.be/OHnNqfymFJM (Afrilisa Nur Rosifa) _Testing conducted on Saturday, 25 December 2021_
+- https://youtu.be/74YaSiHxzVY (Raihana Rizka Adriani) _Testing conducted on Friday, 24 December 2021_
+- https://youtu.be/a_PeFWBleyE (Nurul Izzati) _Testing conducted on Friday, 24 December 2021_
 
 Subtitle :
 - https://github.com/gianchiesa/Neko-Sekai/blob/master/subtitle_lisa.srt (Afrilisa Nur Rosifa)
